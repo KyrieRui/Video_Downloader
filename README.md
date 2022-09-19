@@ -6,9 +6,9 @@
 
 This is a simple video downloader that uses youtube-dl to download videos from youtube and other sites.
 
-![outlook](/Users/zwang/Desktop/OffSchool/python_offschool/vedioDownloader/outlook.png)
-![Screenshot](/Users/zwang/Desktop/OffSchool/python_offschool/vedioDownloader/downloading.png)
-![Screenshot](/Users/zwang/Desktop/OffSchool/python_offschool/vedioDownloader/Kapture 2022-09-20 at 10.59.36.gif)
+![outlook](/Users/zwang/Documents/GitHub/Video_Downloader/outlook.png)
+![Screenshot](/Users/zwang/Documents/GitHub/Video_Downloader/downloading.png)
+![Screenshot](/Users/zwang/Documents/GitHub/Video_Downloader/Kapture 2022-09-20 at 10.59.36.gif)
 
 ## Pakages:
 ### 1. you-get
