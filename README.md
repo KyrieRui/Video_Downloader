@@ -8,7 +8,7 @@ This is a simple video downloader that uses youtube-dl to download videos from y
 
 ![outlook](https://github.com/KyrieRui/Video_Downloader/blob/main/outlook.png)
 ![Screenshot](https://github.com/KyrieRui/Video_Downloader/blob/main/downloading.png)
-![Screenshot](https://github.com/KyrieRui/Video_Downloader/blob/main/Kapture 2022-09-20 at 10.59.36.gif)
+![Screenshot](https://github.com/KyrieRui/Video_Downloader/blob/main/Kapture%202022-09-20%20at%2010.59.36.gif)
 
 ## Pakages:
 ### 1. you-get
