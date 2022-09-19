@@ -6,7 +6,7 @@
 
 This is a simple video downloader that uses youtube-dl to download videos from youtube and other sites.
 
-![outlook](/Users/zwang/Documents/GitHub/Video_Downloader/outlook.png)
+![outlook](https://raw.github.com/KyrieRui/Video_Downloader/Video_Downloader/outlook.png)
 ![Screenshot](/Users/zwang/Documents/GitHub/Video_Downloader/downloading.png)
 ![Screenshot](/Users/zwang/Documents/GitHub/Video_Downloader/Kapture 2022-09-20 at 10.59.36.gif)
 
